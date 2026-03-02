@@ -28,3 +28,7 @@ input[type="password"]{
 p::first-letter {
     font-size: 150%;
 }
+
+li:first-child {
+    font-weight: bold;
+}
