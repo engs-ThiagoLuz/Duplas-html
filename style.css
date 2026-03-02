@@ -3,7 +3,7 @@ p {
 }
 
 h1 {
-    color: #0088ff;
+    color: blue;
 }
 
 .destaque {
@@ -16,4 +16,8 @@ h1 {
 
 input[type="password"]{
     border-color: blue;
+}
+
+.botao-enviar:hover {
+    background-color: blueviolet;
 }
