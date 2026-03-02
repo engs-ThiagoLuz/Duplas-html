@@ -5,3 +5,7 @@ p {
 h1 {
     color: #0088ff;
 }
+
+.destaque {
+    background-color: yellow;
+}
