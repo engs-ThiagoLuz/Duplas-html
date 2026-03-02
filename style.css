@@ -21,3 +21,7 @@ input[type="password"]{
 .botao-enviar:hover {
     background-color: blueviolet;
 }
+
+.container > div > p:first-child {
+    color:orange;
+}
