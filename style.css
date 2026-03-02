@@ -9,3 +9,7 @@ h1 {
 .destaque {
     background-color: yellow;
 }
+
+.importante {
+    color: red;
+}
