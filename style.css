@@ -13,3 +13,7 @@ h1 {
 .importante {
     color: red;
 }
+
+input[type="password"]{
+    border-color: blue;
+}
